@@ -84,7 +84,7 @@ int main()
 ```
 ## OUTPUT
 
-![image](https://github.com/DHARINIPV/Linux-IPC-Message-Queues/assets/119400845/12a790d2-8f24-446f-89b7-867130b30e37)
+![319915618-12a790d2-8f24-446f-89b7-867130b30e37](https://github.com/kanimozhipannerselvam/Linux-IPC-Message-Queues/assets/119476060/ee4098fb-707a-4eb9-a41a-8bcd232d4cc1)
 
 # RESULT:
 The programs are executed successfully.
